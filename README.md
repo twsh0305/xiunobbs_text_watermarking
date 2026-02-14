@@ -1,0 +1,2 @@
+# xiunobbs_text_watermarking
+XiunoBBS设计的文本版权保护工具，通过在文章内容中嵌入不可见的盲水印信息，实现原创内容的版权追溯与侵权取证。
