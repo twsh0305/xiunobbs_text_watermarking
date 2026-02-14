@@ -3,6 +3,7 @@
 XiunoBBS文本版权保护工具，通过在文章内容中嵌入不可见的盲水印信息，实现原创内容的版权追溯与侵权取证。
 
 插件介绍见：[https://wxsnote.cn/7180.html](https://wxsnote.cn/7180.html)
+
 XiunoBBS程序仓库：[https://github.com/twsh0305/xiunobbs](https://github.com/twsh0305/xiunobbs)
 
 ## 截图
